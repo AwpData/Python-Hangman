@@ -1,2 +1,2 @@
 # Python-Hangman
-Play Hangman (2 players
+Play Hangman by choosing a word and having the other player guess. 
